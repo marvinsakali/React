@@ -45,7 +45,7 @@ form {
     gap: 12px;
     width: 100%;
     min-width: 150px;
-    max-width: 600px;
+    max-width: 900px;
 }
 
 input {
@@ -83,7 +83,7 @@ button:hover {
   background-color: #f8f9fb;
   border-radius: 10px;
   width: 100%;
-  max-width: 600px;
+  max-width: 900px;
     
 }
 
@@ -112,7 +112,7 @@ button:hover {
 .recipe-cta {
     
     margin-top: 1.5rem;
-    padding: 1rem 1.5rem;
+    padding: 2rem 1.5rem;
 
     display: flex;
     justify-content: space-between;
@@ -149,7 +149,7 @@ button:hover {
 
 .recipe-section {
     width: 100%;
-    max-width: 600px;
+    max-width: 900px;
     margin-top: 2rem;
     /* padding: 1.5rem; */
     background-color: #fafaf8;
